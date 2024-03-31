@@ -3,7 +3,8 @@ Uber_DataEngineering_Project
 
 **Introduction**
 
-The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
+The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio. I used the YouTube video course by Darshil Pamar as a tutorial source to do this project.
+Credits to: https://www.youtube.com/watch?v=WpQECq5Hx9g&t=2777s
 
 **Technology Used:**
 
@@ -24,7 +25,7 @@ Contibute to this open source project - https://github.com/mage-ai/mage-ai
 
 TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
 
-Here is the dataset used in the video - https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv
+Dataset used in the video - https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv
 
 More info about dataset can be found here:
 
